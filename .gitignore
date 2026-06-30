@@ -1,0 +1,19 @@
+/node_modules
+/public/build
+/public/storage
+/vendor
+/.env
+/.env.backup
+/.env.production
+/storage/*.key
+/storage/app/public
+/storage/logs
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+/bootstrap/cache
+*.sqlite
+*.sqlite-journal
+HABITUE.xlsx
+sortie vers boutique.jpeg
